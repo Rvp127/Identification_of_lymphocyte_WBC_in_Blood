@@ -1,4 +1,6 @@
 # Identification_of_lymphocyte_WBC_in_Blood
+Blood contains Red blood cells (RBC) and White blood cells (WBC). WBCs are darker and bigger. There are five types of WBC:  Neutrophils, Monocytes, Eosinophils, Lymphocytes, and Basophils. Here the Lymphocytes are darker and circular compared to other types. From the blood smear microscopic image, we identify the WBC cells and in those mark the Lymphocytes (which are closer to circular in shape).
+
 1.	The input images provided to the code are peripheral blood smear images.
 2. Developed a MATLAB program for analyzing peripheral blood smear images to count and characterize blood cells, aiding in medical diagnostics.
 3. <u>Image Preprocessing</u>: Implemented functions to read and preprocess input images, including resizing and labeling.
